@@ -1,6 +1,6 @@
 # Membuat dictionary
 my_dict = {
-    "nama": "Alice",
+    "nama": "AGuSSSSSS",
     "usia": 25,
     "kota": "Jakarta"
 }
